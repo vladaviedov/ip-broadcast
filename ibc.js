@@ -28,6 +28,7 @@ const options = {
 // Create request
 const request = http.request(options, res => {
 	console.log("status code: " + res.statusCode);
+	process.exit(0);
 });
 request.on("error", console.error);
 
