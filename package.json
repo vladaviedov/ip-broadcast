@@ -1,0 +1,12 @@
+{
+  "name": "ip-broadcast",
+  "version": "1.0.0",
+  "main": "ibc.js",
+  "repository": "git@github.com:vladaviedov/ip-broadcast.git",
+  "author": "Vladyslav Aviedov <vladaviedov@protonmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
+}
